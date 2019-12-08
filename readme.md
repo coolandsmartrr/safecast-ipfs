@@ -1,0 +1,3 @@
+I developed a system that timestamps on the Bitcoin blockchain to timestamp and semi-permanently stores documents on a P2P distributed network called IPFS. This technology was then applied to store open radiation dataset managed by a volunteer community called Safecast.
+
+This project involved hosting and managing Linux server and Bitcoin node, data scraping, Python, program scheduling, and understanding the inner workings of open source software.
